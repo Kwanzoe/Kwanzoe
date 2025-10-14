@@ -1,6 +1,6 @@
 #  Hey there! I'm Kwanzo
 **🚀 iOS Engineer | Java Spring Boot Developer | Cloud & DevOps Enthusiast
-Crafting smooth mobile experiences, bulding web apps with scalable backends, and cloud-native systems that just work.**
+Crafting smooth mobile experiences, bulding end to end web apps with scalable backends, and cloud-native systems that just work.**
 
 Email Me 👉 ✉️ **contramol123@gmail.com** For Collaboration/Project/Work.
 
